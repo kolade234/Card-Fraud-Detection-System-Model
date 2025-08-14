@@ -1,6 +1,6 @@
 # Card-Fraud-Detection-System-Model
 
-This is a machine learning model that. It was built using python, scikit-learn, and a cleaned card datset
+This is a machine learning model that identifies fraudulent credit or debit card transactions by analyzing patterns in transaction data. It was built using python, scikit-learn, and a cleaned card datset
 
 # Features
 -Model Training using RandomForestClassifier
